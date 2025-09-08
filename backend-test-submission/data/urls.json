@@ -1,0 +1,21 @@
+[
+  {
+    "shortcode": "UWi4zl",
+    "originalUrl": "https://example.com",
+    "customShortcode": false,
+    "createdAt": "2025-09-08T10:01:27.681Z",
+    "expiresAt": "2025-09-08T11:01:27.681Z",
+    "validityMinutes": 60,
+    "clickCount": 1,
+    "clicks": [
+      {
+        "timestamp": "2025-09-08T10:02:20.868Z",
+        "referrer": "Direct",
+        "userAgent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-IN) WindowsPowerShell/5.1.26100.4202",
+        "ipAddress": "::1",
+        "geoLocation": "Local/Localhost"
+      }
+    ],
+    "isActive": true
+  }
+]
